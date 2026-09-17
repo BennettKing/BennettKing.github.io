@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## My name is Bennett, welcome to my portfolio!
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
