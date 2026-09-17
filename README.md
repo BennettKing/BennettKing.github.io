@@ -65,6 +65,8 @@ One important trend to know before reading the dashboard: **the number of rows r
 
 ## The Power BI Dashboard
 
+<img width="2494" height="1120" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/8716fd1c-f595-448a-a0a2-53644a781494" />
+
 The dashboard (`Dashboard_1__1_.png`) has four visuals, all built on the `rent_euro` field summed (aggregated with SUM, not averaged):
 
 ### 1. Rent Cost per Bedrooms
